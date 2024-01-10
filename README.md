@@ -2,7 +2,7 @@
 This repo will focus on building a consumer friendly web page offering just the best of Sex Toys. 
 With only a simple HTML script and some build in CSS this website will serve as a demo for future projects to come.
 
-A live demo of the site can be found here: https://rubylicious92.github.io/sextoys/
+A live demo of the site can be found here: 
 
 ## What I learned 
 
