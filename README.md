@@ -8,4 +8,4 @@ The main challenge was to set up several pages and linking them together. In add
 
 ### Glimpse into the future
 
-With the first web site set up, more will follow. Especially those using Flexbox and Javascript in order to enhance user friendliness. So stay tuned. 
+With the first website set up, there are many more to follow. Especially the kind of sites using Flexbox and Javascript in order to enhance user friendliness. So stay tuned. 
