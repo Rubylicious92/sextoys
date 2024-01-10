@@ -4,7 +4,8 @@ With only a simple HTML script and some build in CSS this website will serve as 
 
 ## What I learned 
 
-The main challenge was to set up several pages and linking them together. In addition to that there has been a successful test of build in CSS to make it look more appealing. Though the external sheet hasn't worked out the way I intended. 
+The main challenge was to set up several pages and linking them together. In addition to that there has been a successful test of build in CSS to make it look more appealing. This process was marked with several attemps adjusting font and picture sizes until a satisfying style was found. 
+However the external sheet hasn't worked out the way I intended. 
 
 ### Glimpse into the future
 
