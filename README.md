@@ -1,2 +1,11 @@
 # Sex Toys
-This repo will focus on building a consumer friendly web page offering just the best of Sex Toys
+This repo will focus on building a consumer friendly web page offering just the best of Sex Toys. 
+With only a simple HTML script and some build in CSS this website will serve as a demo for future projects to come.
+
+## What I learned 
+
+The main challenge was to set up several pages and linking them together. In addition to that there has been a successful test of build in CSS to make it look more appealing. Though the external sheet hasn't worked out the way I intended. 
+
+### Glimpse into the future
+
+With the first web site set up, more will follow. Especially those using Flexbox and Javascript in order to enhance user friendliness. So stay tuned. 
